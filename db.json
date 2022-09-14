@@ -22,38 +22,6 @@
 						{
 							"order":"third",
 							"dive":"203b"
-						},
-						{
-							"order":"fourth",
-							"dive":"203b"
-						},
-						{
-							"order":"fifth",
-							"dive":"205b"
-						},
-						{
-							"order":"sixth",
-							"dive":"203b"
-						},
-						{
-							"order":"seventh",
-							"dive":"203b"
-						},
-						{
-							"order":"eighth",
-							"dive":"205b"
-						},
-						{
-							"order":"ninth",
-							"dive":"203b"
-						},
-						{
-							"order":"tenth",
-							"dive":"203b"
-						},
-						{
-							"order":"eleventh",
-							"dive":"205b"
 						}
 					]
 				},
@@ -167,6 +135,7 @@
 			"name": "All-City",
 			"event": "1 Meter, 6 Dives",
 			"date": "Nov. 5, 2021",
+			"admin": "0000",
 			"divers": [
 				{
 					"name": "CT Robinson",
@@ -175,15 +144,21 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":"103b"
+							"dive":"103b",
+							"name":"Front 1.5 SS, Pike",
+							"dd":1.7
 						},
 						{
 							"order":"second",
-							"dive":"105b"
+							"dive":"105b",
+							"name":"Front 2.5 SS, Pike",
+							"dd":2.6
 						},
 						{
 							"order":"third",
-							"dive":"203b"
+							"dive":"203b",
+							"name":"Back 1.5 SS, Pike",
+							"dd":2.3
 						}
 					]
 				},
@@ -194,15 +169,21 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":"103b"
+							"dive":"103c",
+							"name":"Front 1.5 SS, Tuck",
+							"dd":1.6
 						},
 						{
 							"order":"second",
-							"dive":"105b"
+							"dive":"105c",
+							"name":"Front 2.5 SS, Tuck",
+							"dd":2.4
 						},
 						{
 							"order":"third",
-							"dive":"203b"
+							"dive":"203c",
+							"name":"Back 1.5 SS, Tuck",
+							"dd":2.0
 						}
 					]
 				},
@@ -213,15 +194,21 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":"103b"
+							"dive":"203b",
+							"name":"Back 1.5 SS, Pike",
+							"dd":2.3
 						},
 						{
 							"order":"second",
-							"dive":"105b"
+							"dive":"405b",
+							"name":"Inward 2.5 SS, Pike",
+							"dd":3.4
 						},
 						{
 							"order":"third",
-							"dive":"203b"
+							"dive":"303b",
+							"name":"Reverse 1.5 SS, Pike",
+							"dd":2.4
 						}
 					]
 				}

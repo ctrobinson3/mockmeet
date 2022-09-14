@@ -12,16 +12,48 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":"103b"
 						},
 						{
-							"order":'second',
+							"order":"second",
 							"dive":'105b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
+						},
+						{
+							"order":"fourth",
+							"dive":'203b'
+						},
+						{
+							"order":"fifth",
+							"dive":'205b'
+						},
+						{
+							"order":"sixth",
+							"dive":'203b'
+						},
+						{
+							"order":"seventh",
+							"dive":'203b'
+						},
+						{
+							"order":"eighth",
+							"dive":'205b'
+						},
+						{
+							"order":"ninth",
+							"dive":'203b'
+						},
+						{
+							"order":"tenth",
+							"dive":'203b'
+						},
+						{
+							"order":"eleventh",
+							"dive":'205b'
 						}
 					]
 				},
@@ -31,15 +63,15 @@
 					"school": "Denver",
 					"dives": [
 						{
-							"order":'first',
+							"order":"first",
 							"dive":'303b'
 						},
 						{
-							"order":'second',
+							"order":"second",
 							"dive":'305b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -50,15 +82,15 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"order":'first',
+							"order":"first",
 							"dive":'203b'
 						},
 						{
-							"order":'second',
+							"order":"second",
 							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -77,15 +109,15 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -96,15 +128,15 @@
 					"school": "Denver",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'403b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -115,15 +147,15 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'303b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -142,15 +174,15 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'305b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -161,16 +193,16 @@
 					"school": "Pueblo",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
-							"dive":'403b'
+							"order":"third",
+							"dive":'203b'
 						}
 					]
 				},
@@ -180,15 +212,15 @@
 					"school": "Loveland",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -207,15 +239,15 @@
 					"school": "Silver Creek",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -226,15 +258,15 @@
 					"school": "South Dakota",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]
@@ -245,15 +277,15 @@
 					"school": "New York",
 					"dives": [
 						{
-							"order":'first',
-							"dive":'103b'
+							"order":"first",
+							"dive":'203b'
 						},
 						{
-							"order":'second',
-							"dive":'105b'
+							"order":"second",
+							"dive":'205b'
 						},
 						{
-							"order":'third',
+							"order":"third",
 							"dive":'203b'
 						}
 					]

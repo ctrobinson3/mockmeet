@@ -17,43 +17,43 @@
 						},
 						{
 							"order":"second",
-							"dive":'105b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"fourth",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"fifth",
-							"dive":'205b'
+							"dive":"205b"
 						},
 						{
 							"order":"sixth",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"seventh",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"eighth",
-							"dive":'205b'
+							"dive":"205b"
 						},
 						{
 							"order":"ninth",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"tenth",
-							"dive":'203b'
+							"dive":"203b"
 						},
 						{
 							"order":"eleventh",
-							"dive":'205b'
+							"dive":"205b"
 						}
 					]
 				},
@@ -64,15 +64,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'303b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'305b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -83,15 +83,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				}
@@ -110,15 +110,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -129,15 +129,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -148,15 +148,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				}
@@ -175,15 +175,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -194,15 +194,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -213,15 +213,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				}
@@ -240,15 +240,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -259,15 +259,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				},
@@ -278,15 +278,15 @@
 					"dives": [
 						{
 							"order":"first",
-							"dive":'203b'
+							"dive":"103b"
 						},
 						{
 							"order":"second",
-							"dive":'205b'
+							"dive":"105b"
 						},
 						{
 							"order":"third",
-							"dive":'203b'
+							"dive":"203b"
 						}
 					]
 				}

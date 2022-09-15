@@ -136,7 +136,7 @@
 			"event": "1 Meter, 6 Dives",
 			"date": "Nov. 5, 2021",
 			"admin": "0000",
-			"diveAmt": 3,
+			"rounds": 3,
 			"divers": [
 				{
 					"name": "CT Robinson",
